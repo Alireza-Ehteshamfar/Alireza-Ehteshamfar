@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alireza-Ehteshamfar
 - 👀 I’m interested in learning new things to update myself & reading novels as my hobby 
 - 🌱 I’m currently learning back_end .net 
-- 📫 How to reach me 
+- 📫 you can reach me in
       ehteshamfaralireza@gmail.com &
       +98 921 238 2303 
 
